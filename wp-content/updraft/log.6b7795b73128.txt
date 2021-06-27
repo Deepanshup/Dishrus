@@ -1,0 +1,276 @@
+0000.001 (0) Opened log file at time: Wed, 05 Feb 2020 07:58:49 +0000 on http://localhost/site
+0000.165 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.4.1 (apache2handler, Windows NT AVALANCHEINFOTE 6.1 build 7601 (Windows 7 Professional Edition Service Pack 1) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.1 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 50.2M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.200 (0) Free space on disk containing Updraft's temporary directory: 134107.8 MB
+0000.283 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.324 (0) Semaphore (fd, wp_options) being initialised
+0000.711 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.943 (0) Set semaphore last lock (fd) time to 2020-02-05 07:58:50
+0000.996 (0) Semaphore lock (fd) complete
+0001.244 (0) Backup run: resumption=0, nonce=6b7795b73128, file_nonce=6b7795b73128 begun at=1580889529 (1s ago), job type=backup
+0001.532 (0) Scheduling a resumption (1) after 300 seconds (1580889830) in case this run gets aborted
+0001.700 (0) Checking if we have a zip executable available
+0001.778 (0) Creation of backups of directories: beginning
+0001.953 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.448 (0) Total entities for the zip file: 1093 directories, 5058 files (0 skipped as non-modified), 85.3 MB
+0007.533 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.833 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 100 files added (on-disk size: 210.1 KB)
+0007.909 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 200 files added (on-disk size: 210.1 KB)
+0008.012 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 300 files added (on-disk size: 210.1 KB)
+0008.104 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 400 files added (on-disk size: 210.1 KB)
+0008.192 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 500 files added (on-disk size: 210.1 KB)
+0008.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.5 MB, 5058 files batched, 501 (502) added so far); re-opening (prior size: 210.1 KB)
+0014.234 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 600 files added (on-disk size: 5442.2 KB)
+0014.428 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 700 files added (on-disk size: 5442.2 KB)
+0014.681 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 800 files added (on-disk size: 5442.2 KB)
+0014.827 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 900 files added (on-disk size: 5442.2 KB)
+0014.910 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1000 files added (on-disk size: 5442.2 KB)
+0014.953 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 5058 files batched, 501 (1003) added so far); re-opening (prior size: 5442.2 KB)
+0020.207 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1100 files added (on-disk size: 6470.6 KB)
+0020.341 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1200 files added (on-disk size: 6470.6 KB)
+0020.465 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1300 files added (on-disk size: 6470.6 KB)
+0020.611 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1400 files added (on-disk size: 6470.6 KB)
+0020.774 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1500 files added (on-disk size: 6470.6 KB)
+0020.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 5058 files batched, 501 (1504) added so far); re-opening (prior size: 6470.6 KB)
+0026.395 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1600 files added (on-disk size: 10366.2 KB)
+0026.478 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1700 files added (on-disk size: 10366.2 KB)
+0026.604 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1800 files added (on-disk size: 10366.2 KB)
+0026.683 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 1900 files added (on-disk size: 10366.2 KB)
+0026.797 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2000 files added (on-disk size: 10366.2 KB)
+0026.866 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.4 MB, 5058 files batched, 501 (2005) added so far); re-opening (prior size: 10366.2 KB)
+0029.921 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2100 files added (on-disk size: 14762.7 KB)
+0030.061 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2200 files added (on-disk size: 14762.7 KB)
+0030.176 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2300 files added (on-disk size: 14762.7 KB)
+0030.288 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2400 files added (on-disk size: 14762.7 KB)
+0030.405 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2500 files added (on-disk size: 14762.7 KB)
+0030.467 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.4 MB, 5058 files batched, 501 (2506) added so far); re-opening (prior size: 14762.7 KB)
+0033.120 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2600 files added (on-disk size: 20377.9 KB)
+0033.234 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2700 files added (on-disk size: 20377.9 KB)
+0033.475 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2800 files added (on-disk size: 20377.9 KB)
+0033.565 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 2900 files added (on-disk size: 20377.9 KB)
+0033.653 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3000 files added (on-disk size: 20377.9 KB)
+0033.691 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 5058 files batched, 501 (3007) added so far); re-opening (prior size: 20377.9 KB)
+0034.281 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3100 files added (on-disk size: 21097.6 KB)
+0034.363 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3200 files added (on-disk size: 21097.6 KB)
+0034.459 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3300 files added (on-disk size: 21097.6 KB)
+0034.649 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3400 files added (on-disk size: 21097.6 KB)
+0034.725 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3500 files added (on-disk size: 21097.6 KB)
+0034.794 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 MB, 5058 files batched, 501 (3508) added so far); re-opening (prior size: 21097.6 KB)
+0036.205 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3600 files added (on-disk size: 22063.7 KB)
+0036.356 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3700 files added (on-disk size: 22063.7 KB)
+0036.445 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3800 files added (on-disk size: 22063.7 KB)
+0036.617 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 3900 files added (on-disk size: 22063.7 KB)
+0036.849 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4000 files added (on-disk size: 22063.7 KB)
+0036.949 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 5058 files batched, 501 (4009) added so far); re-opening (prior size: 22063.7 KB)
+0038.504 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4100 files added (on-disk size: 24322.8 KB)
+0038.619 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4200 files added (on-disk size: 24322.8 KB)
+0038.715 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4300 files added (on-disk size: 24322.8 KB)
+0038.822 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4400 files added (on-disk size: 24322.8 KB)
+0039.072 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4500 files added (on-disk size: 24322.8 KB)
+0039.235 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 5058 files batched, 501 (4510) added so far); re-opening (prior size: 24322.8 KB)
+0040.705 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4600 files added (on-disk size: 25778.9 KB)
+0040.841 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4700 files added (on-disk size: 25778.9 KB)
+0040.952 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4800 files added (on-disk size: 25778.9 KB)
+0041.051 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 4900 files added (on-disk size: 25778.9 KB)
+0041.163 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip.tmp: 5000 files added (on-disk size: 25778.9 KB)
+0041.334 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 5058 files batched, 501 (5011) added so far); re-opening (prior size: 25778.9 KB)
+0044.359 (0) Created plugins zip (0) - 26541.2 KB in 42.3 s (627.4 KB/s) (sha1: bb0a1ac01ec46d088bed3bfe0f42ad3acc183f18, sha256: 72385d8e7a4544e9cea04826350cda761959b4a8afc1d601b4f5e2ebbdfa28f7)
+0045.254 (0) Beginning creation of dump of themes (split every: 400 MB)
+0046.413 (0) Total entities for the zip file: 183 directories, 573 files (0 skipped as non-modified), 12.9 MB
+0046.772 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.066 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.330 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0047.546 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0047.711 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0047.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.7 MB, 573 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0054.384 (0) Created themes zip (0) - 4333.8 KB in 8.5 s (508.4 KB/s) (sha1: 76b5bad111ef803e51bb9f794c843cc757b3321f, sha256: 361c1c1cd201f60d4ab4523bb5b3ee05a756cc96d0518d3a673584a1e77b0539)
+0054.895 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0055.163 (0) Looking for candidates to backup in: C:\xampp\htdocs\site/wp-content/uploads
+0055.600 (0) finding files: 2018: adding to list (1)
+0055.683 (0) finding files: 2019: adding to list (2)
+0055.732 (0) finding files: 2020: adding to list (3)
+0055.821 (0) finding files: elementor: adding to list (4)
+0055.876 (0) finding files: ti_theme_onboarding.log: adding to list (5)
+0055.932 (0) finding files: wc-logs: adding to list (6)
+0055.988 (0) finding files: woocommerce_uploads: adding to list (7)
+0056.028 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0056.273 (0) Total entities for the zip file: 14 directories, 137 files (0 skipped as non-modified), 15.2 MB
+0056.370 (0) Zip: backup_2020-02-05-0758_First_Site_6b7795b73128-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0063.929 (0) Created uploads zip (0) - 15465.7 KB in 7.9 s (1967.8 KB/s) (sha1: 0ecaec74e77f246c3e7efbf2b946c1bbeb66f216, sha256: 6933c9c9326ef9aec525c34af18194439da76a6fa957c675ebb1066776b982fc)
+0064.055 (0) Beginning backup of other directories found in the content directory (index: 0)
+0064.117 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0064.177 (0) Looking for candidates to backup in: C:\xampp\htdocs\site/wp-content
+0064.217 (0) finding files: index.php: adding to list (1)
+0064.277 (0) finding files: mu-plugins: adding to list (2)
+0064.317 (0) finding files: plugins: skipping: this is the plugins directory
+0064.355 (0) finding files: themes: skipping: this is the themes directory
+0064.395 (0) finding files: updraft: skipping: this is the updraft directory
+0064.433 (0) finding files: upgrade: skipping: excluded by options
+0064.848 (0) finding files: uploads: skipping: this is the uploads directory
+0065.215 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0065.474 (0) Created others zip (0) - 0.8 KB in 0.3 s (2.7 KB/s) (sha1: f895ed64a75a8894275d63df715068d5fe4a1d98, sha256: f24ec850afd7c29e02196aaee83266943dd22bec8746018143031895cd335ff2)
+0065.755 (0) Saving backup status to database (elements: 8)
+0065.894 (0) Beginning creation of database dump (WordPress DB)
+0066.007 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0071.148 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+0071.285 (0) Binary mysqldump: error (code: 6)
+0071.384 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Server 5.6\bin\mysqldump.exe
+0072.186 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+0072.255 (0) Binary mysqldump: error (code: 6)
+0072.558 (0) Table wp_options: Total expected rows (approximate): 377
+0073.243 (0) Table wp_options: Total rows added: 404 in 0.31 seconds
+0073.299 (0) Table wp_options: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_options.table.gz - 202.1 KB)
+0073.535 (0) Table wp_users: Total expected rows (approximate): 2
+0073.581 (0) Table wp_users: Total rows added: 2 in 0.01 seconds
+0073.654 (0) Table wp_users: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_users.table.gz - 0.6 KB)
+0073.979 (0) Table wp_usermeta: Total expected rows (approximate): 48
+0074.085 (0) Table wp_usermeta: Total rows added: 48 in 0.06 seconds
+0074.211 (0) Table wp_usermeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_usermeta.table.gz - 1.6 KB)
+0074.355 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0074.479 (0) Table wp_commentmeta: Total rows added: 0 in 0.06 seconds
+0074.789 (0) Table wp_commentmeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0075.223 (0) Table wp_comments: Total expected rows (approximate): 3
+0075.447 (0) Table wp_comments: Total rows added: 3 in 0.06 seconds
+0075.527 (0) Table wp_comments: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_comments.table.gz - 0.6 KB)
+0075.736 (0) Table wp_links: Total expected rows (approximate): 0
+0075.937 (0) Table wp_links: Total rows added: 0 in 0.05 seconds
+0076.049 (0) Table wp_links: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_links.table.gz - 0.4 KB)
+0076.176 (0) Table wp_postmeta: Total expected rows (approximate): 2399
+0077.547 (0) Table wp_postmeta: Total rows added: 1247 in 1.25 seconds
+0077.617 (0) Table wp_postmeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_postmeta.table.gz - 854.9 KB)
+0077.802 (0) Table wp_posts: Total expected rows (approximate): 223
+0078.027 (0) Table wp_posts: Total rows added: 191 in 0.19 seconds
+0078.078 (0) Table wp_posts: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_posts.table.gz - 40.8 KB)
+0078.280 (0) Table wp_term_relationships: Total expected rows (approximate): 55
+0079.173 (0) Table wp_term_relationships: Total rows added: 55 in 0.11 seconds
+0079.223 (0) Table wp_term_relationships: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0079.391 (0) Table wp_term_taxonomy: Total expected rows (approximate): 51
+0079.461 (0) Table wp_term_taxonomy: Total rows added: 51 in 0.03 seconds
+0079.518 (0) Table wp_term_taxonomy: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0079.702 (0) Table wp_termmeta: Total expected rows (approximate): 32
+0079.983 (0) Table wp_termmeta: Total rows added: 32 in 0.11 seconds
+0080.079 (0) Table wp_termmeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_termmeta.table.gz - 0.6 KB)
+0080.218 (0) Table wp_terms: Total expected rows (approximate): 51
+0080.277 (0) Table wp_terms: Total rows added: 51 in 0.02 seconds
+0080.379 (0) Table wp_terms: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_terms.table.gz - 0.9 KB)
+0080.627 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 0
+0080.800 (0) Table wp_wc_product_meta_lookup: Total rows added: 0 in 0.10 seconds
+0080.901 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_product_meta_lookup.table.gz - 0.5 KB)
+0081.156 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0081.269 (0) Table wp_wc_tax_rate_classes: Total rows added: 2 in 0.07 seconds
+0081.317 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0081.452 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0081.554 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.07 seconds
+0081.595 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0081.703 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0081.764 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.03 seconds
+0081.802 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0081.981 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0082.149 (0) Table wp_wc_download_log: Total rows added: 0 in 0.06 seconds
+0082.190 (0) Table wp_wc_download_log: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0082.341 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0082.442 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.02 seconds
+0082.663 (0) Table wp_wc_webhooks: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0082.863 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0082.926 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.03 seconds
+0083.017 (0) Table wp_woocommerce_api_keys: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0083.291 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0083.361 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.01 seconds
+0083.439 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0083.596 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0083.651 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.02 seconds
+0083.701 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0083.851 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0083.956 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.07 seconds
+0084.024 (0) Table wp_woocommerce_log: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0084.345 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0084.520 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.04 seconds
+0084.747 (0) Table wp_woocommerce_order_items: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0084.962 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0085.033 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.03 seconds
+0085.084 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0085.352 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0085.409 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0085.458 (0) Table wp_woocommerce_sessions: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0085.641 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0085.764 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.06 seconds
+0085.862 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0086.030 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0086.175 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.08 seconds
+0086.213 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0086.512 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0086.793 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.06 seconds
+0086.852 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0087.004 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0087.069 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.03 seconds
+0087.113 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0087.357 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0087.588 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.07 seconds
+0087.641 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0087.781 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_options.table.gz (1/30): adding to final database dump
+0087.872 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_users.table.gz (2/30): adding to final database dump
+0087.913 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_usermeta.table.gz (3/30): adding to final database dump
+0087.953 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_commentmeta.table.gz (4/30): adding to final database dump
+0088.005 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_comments.table.gz (5/30): adding to final database dump
+0088.035 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_links.table.gz (6/30): adding to final database dump
+0088.094 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_postmeta.table.gz (7/30): adding to final database dump
+0088.434 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_posts.table.gz (8/30): adding to final database dump
+0088.748 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_term_relationships.table.gz (9/30): adding to final database dump
+0088.880 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_term_taxonomy.table.gz (10/30): adding to final database dump
+0089.138 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_termmeta.table.gz (11/30): adding to final database dump
+0089.229 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_terms.table.gz (12/30): adding to final database dump
+0089.327 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_product_meta_lookup.table.gz (13/30): adding to final database dump
+0089.383 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_tax_rate_classes.table.gz (14/30): adding to final database dump
+0089.439 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_order_itemmeta.table.gz (15/30): adding to final database dump
+0089.517 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_payment_tokenmeta.table.gz (16/30): adding to final database dump
+0089.780 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_download_log.table.gz (17/30): adding to final database dump
+0089.847 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_wc_webhooks.table.gz (18/30): adding to final database dump
+0089.915 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_api_keys.table.gz (19/30): adding to final database dump
+0089.972 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_attribute_taxonomies.table.gz (20/30): adding to final database dump
+0090.027 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (21/30): adding to final database dump
+0090.083 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_log.table.gz (22/30): adding to final database dump
+0090.141 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_order_items.table.gz (23/30): adding to final database dump
+0090.194 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_payment_tokens.table.gz (24/30): adding to final database dump
+0090.225 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_sessions.table.gz (25/30): adding to final database dump
+0090.347 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zone_locations.table.gz (26/30): adding to final database dump
+0090.381 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zone_methods.table.gz (27/30): adding to final database dump
+0090.436 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_shipping_zones.table.gz (28/30): adding to final database dump
+0090.494 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_tax_rate_locations.table.gz (29/30): adding to final database dump
+0090.549 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db-table-wp_woocommerce_tax_rates.table.gz (30/30): adding to final database dump
+0090.585 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db.gz: finished writing out complete database file (1096 KB)
+0090.846 (0) Total database tables backed up: 30 (backup_2020-02-05-0758_First_Site_6b7795b73128-db.gz, size: 1130869, sha1: 1e0ba4c97302cd46de908984026acdaf8e56e75e, sha256: 6f363fdcd9e3a6e761f01f63123c670085756a78e63e32faeea128f88518fe12)
+0091.075 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0091.102 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0091.138 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0091.169 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-others.zip: others: This file has not yet been successfully uploaded: will queue
+0091.245 (0) backup_2020-02-05-0758_First_Site_6b7795b73128-db.gz: db: This file has not yet been successfully uploaded: will queue
+0091.280 (0) Saving backup history. Total backup size: 46.3 MB
+0091.471 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0091.690 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0091.751 (0) No remote despatch: user chose no remote backup service
+0091.868 (0) Recording as successfully uploaded: backup_2020-02-05-0758_First_Site_6b7795b73128-plugins.zip
+0091.941 (0) Recording as successfully uploaded: backup_2020-02-05-0758_First_Site_6b7795b73128-themes.zip
+0092.019 (0) Recording as successfully uploaded: backup_2020-02-05-0758_First_Site_6b7795b73128-uploads.zip
+0092.107 (0) Recording as successfully uploaded: backup_2020-02-05-0758_First_Site_6b7795b73128-others.zip
+0092.175 (0) Recording as successfully uploaded: backup_2020-02-05-0758_First_Site_6b7795b73128-db.gz
+0092.339 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0092.411 (0) Number of backup sets in history: 1; groups (db): 1
+0092.612 (0) Examining (for databases) backup set with group_id=0, nonce=6b7795b73128, datestamp=1580889529 (Feb 05 2020 07:58:49)
+0092.684 (0) This backup set is the backup set just made, so will not be deleted.
+0092.684 (0) Number of backup sets in history: 1; groups (files): 1
+0092.754 (0) Examining (for files) backup set with nonce=6b7795b73128, datestamp=1580889529 (Feb 05 2020 07:58:49)
+0092.754 (0) This backup set is the backup set just made, so will not be deleted.
+0092.816 (0) This backup set is the backup set just made, so will not be deleted.
+0092.816 (0) This backup set is the backup set just made, so will not be deleted.
+0092.816 (0) This backup set is the backup set just made, so will not be deleted.
+0092.816 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0092.888 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0093.217 (0) Resume backup (6b7795b73128, 0): finish run
+0093.495 (0) Decremented the semaphore (fd) by 1
+0093.653 (0) Semaphore (fd) unlocked
+0093.748 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0093.991 (0) No email will/can be sent - the user has not configured an email address.
+0094.025 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Wed, 05 Feb 2020 08:04:40 +0000 on http://localhost/site
+0000.054 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.4.1 (apache2handler, Windows NT AVALANCHEINFOTE 6.1 build 7601 (Windows 7 Professional Edition Service Pack 1) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.1 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 29.6M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.109 (1) Free space on disk containing Updraft's temporary directory: 134091 MB
+0000.140 (1) This backup task (6b7795b73128) is either complete or began over 2 days ago: ending (1580889880.3135, ) (existing jobdata keys: )

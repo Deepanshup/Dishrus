@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: autochat-button-for-mobile-chat\n"
+"POT-Creation-Date: 2020-01-14 15:43-0300\n"
+"PO-Revision-Date: 2020-01-14 15:43-0300\n"
+"Last-Translator: \n"
+"Language-Team: autochat\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/options.php:32
+msgid "Whatsapp Options"
+msgstr "Opciones Whatsapp"
+
+#: includes/options.php:36
+msgid "Labels and Messages"
+msgstr "Mensajes y Etiquetas"
+
+#: includes/options.php:37
+msgid "Whatsapp Message"
+msgstr "Mensaje de consulta inicial"
+
+#: includes/options.php:39
+msgid "Hi!"
+msgstr "Hola!"
+
+#: includes/options.php:42
+msgid "Country"
+msgstr "País"
+
+#: includes/options.php:50
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: includes/options.php:51
+msgid "Number"
+msgstr "Número"
+
+#: includes/options.php:56
+msgid "Widget"
+msgstr "Visualización de la ventana"
+
+#: includes/options.php:59
+msgid "Username"
+msgstr "Usuario"
+
+#: includes/options.php:63 includes/options.php:67
+msgid "Profile Image"
+msgstr "Imagen de Perfil"
+
+#: includes/options.php:63
+msgid "(Square)"
+msgstr "(Cuadrada)"
+
+#: includes/options.php:67
+msgid "Attach Image"
+msgstr "Adjuntar imagen"
+
+#: includes/options.php:68
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/options.php:89
+msgid "Status"
+msgstr "Estado"
+
+#: includes/options.php:90 includes/options.php:157 includes/options.php:415
+#: includes/options.php:582
+msgid "Online"
+msgstr "En linea"
+
+#: includes/options.php:93
+msgid "Screen Position"
+msgstr "Posición de la ventana"
+
+#: includes/options.php:98
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/options.php:99
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/options.php:104
+msgid "Intro Message"
+msgstr "Mensaje introductorio"
+
+#: includes/options.php:105 includes/options.php:161 includes/options.php:416
+#: includes/options.php:546
+msgid "Hello! How can I help you?"
+msgstr "Hola! En qué puedo ayudarte?"
+
+#: includes/options.php:109
+msgid "Text Button"
+msgstr "Texto de botón"
+
+#: includes/options.php:110 includes/options.php:165 includes/options.php:417
+#: includes/options.php:588
+msgid "Start Chat"
+msgstr "Empezar Chat"
+
+#: includes/options.php:116
+msgid "Don't Show Whatsapp Window"
+msgstr "No mostrar la ventana de Whatsapp"
+
+#: includes/options.php:121
+msgid "Select Whatsapp Button"
+msgstr "Seleccione el botón de Whatsapp"
+
+#: includes/options.php:151
+msgid "Window Preview"
+msgstr "Vista previa de ventana"

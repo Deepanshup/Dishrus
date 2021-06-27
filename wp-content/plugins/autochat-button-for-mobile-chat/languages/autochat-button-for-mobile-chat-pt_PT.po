@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: autochat-button-for-mobile-chat\n"
+"POT-Creation-Date: 2020-01-14 15:43-0300\n"
+"PO-Revision-Date: 2020-01-14 15:43-0300\n"
+"Last-Translator: \n"
+"Language-Team: autochat\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/options.php:32
+msgid "Whatsapp Options"
+msgstr "Opções WhatsApp"
+
+#: includes/options.php:36
+msgid "Labels and Messages"
+msgstr "Etiquetas e mensagens"
+
+#: includes/options.php:37
+msgid "Whatsapp Message"
+msgstr "Whatsapp Mensagem"
+
+#: includes/options.php:39
+msgid "Hi!"
+msgstr "Oi!"
+
+#: includes/options.php:42
+msgid "Country"
+msgstr "País"
+
+#: includes/options.php:50
+msgid "Phone Number"
+msgstr "Número de telefone"
+
+#: includes/options.php:51
+msgid "Number"
+msgstr "Número"
+
+#: includes/options.php:56
+msgid "Widget"
+msgstr "Visualização da Ventana"
+
+#: includes/options.php:59
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: includes/options.php:63 includes/options.php:67
+msgid "Profile Image"
+msgstr "Imagem de perfil"
+
+#: includes/options.php:63
+msgid "(Square)"
+msgstr "(Quadrada)"
+
+#: includes/options.php:67
+msgid "Attach Image"
+msgstr "Anexar imagem"
+
+#: includes/options.php:68
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/options.php:89
+msgid "Status"
+msgstr "Estado"
+
+#: includes/options.php:90 includes/options.php:157
+msgid "Online"
+msgstr "Conectado"
+
+#: includes/options.php:93
+msgid "Screen Position"
+msgstr "Posição da tela"
+
+#: includes/options.php:98
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/options.php:99
+msgid "Right"
+msgstr "Direita"
+
+#: includes/options.php:104
+msgid "Intro Message"
+msgstr "Mensagem de Introdução"
+
+#: includes/options.php:105 includes/options.php:161
+msgid "Hello! How can I help you?"
+msgstr "Olá! Como posso ajudá-lo?"
+
+#: includes/options.php:109
+msgid "Text Button"
+msgstr "Botão de texto"
+
+#: includes/options.php:110 includes/options.php:165
+msgid "Start Chat"
+msgstr "Iniciar bate-papo"
+
+#: includes/options.php:116
+msgid "Don't Show Whatsapp Window"
+msgstr "Não mostrar janela WhatsApp"
+
+#: includes/options.php:121
+msgid "Select Whatsapp Button"
+msgstr "Selecione o botão Whatsapp"
+
+#: includes/options.php:151
+msgid "Window Preview"
+msgstr "Visualização da janela"

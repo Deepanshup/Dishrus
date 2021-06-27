@@ -1,0 +1,20 @@
+[23/Jan/2020:12:53:55] (ℹ️): WordPress Instance Info:
+[23/Jan/2020:12:53:55] (ℹ️): Home URL : http://localhost/site
+[23/Jan/2020:12:53:55] (ℹ️): Site URL : http://localhost/site
+[23/Jan/2020:12:53:55] (ℹ️): WordPress Version : 5.3.2
+[23/Jan/2020:12:53:55] (ℹ️): Onboarding Version : 1.7.12
+[23/Jan/2020:12:53:55] (ℹ️): Multisite : No
+[23/Jan/2020:12:53:55] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.1
+[23/Jan/2020:12:53:55] (ℹ️): PHP Version : 7.4.1
+[23/Jan/2020:12:53:55] (ℹ️): HTTPS : No
+[23/Jan/2020:12:53:55] (ℹ️): PHP Max Execution Time : 120
+[23/Jan/2020:12:53:55] (ℹ️): PHP Max Input Vars : 1000
+[23/Jan/2020:12:53:55] (ℹ️): Max Upload Size : 41943040
+[23/Jan/2020:12:53:55] (ℹ️): Plugins:
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] InfiniteWP - Client : v1.9.4.5 (Revmakx)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] Elementor : v2.8.4 (Elementor.com)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] myStickymenu : v2.3.2 (Premio)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] Pearl Header Builder : v1.3.1 (StylemixThemes)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.14 (Themeisle)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] WooCommerce : v3.8.1 (Automattic)
+[23/Jan/2020:12:53:55] (ℹ️): [PLUGIN] WP Call Button : v1.0.1 (Syed Balkhi)

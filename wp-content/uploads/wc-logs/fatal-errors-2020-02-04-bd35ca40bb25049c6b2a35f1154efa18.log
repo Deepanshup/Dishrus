@@ -1,0 +1,6 @@
+2020-02-04T11:51:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site\wp-content\themes\neve\vendor\codeinwp\ti-about-page\class-ti-about-page.php on line 245
+
+2020-02-04T12:24:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site\wp-includes\wp-db.php on line 2030
+
+2020-02-04T12:24:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site\wp-includes\wp-db.php on line 2030
+

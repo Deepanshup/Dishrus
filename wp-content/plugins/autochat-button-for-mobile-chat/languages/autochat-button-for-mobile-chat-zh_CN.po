@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: autochat-button-for-mobile-chat\n"
+"POT-Creation-Date: 2020-01-14 15:46-0300\n"
+"PO-Revision-Date: 2020-01-14 15:46-0300\n"
+"Last-Translator: \n"
+"Language-Team: autochat\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/options.php:32
+msgid "Whatsapp Options"
+msgstr "應用程式 的選項"
+
+#: includes/options.php:36
+msgid "Labels and Messages"
+msgstr "標籤和消息"
+
+#: includes/options.php:37
+msgid "Whatsapp Message"
+msgstr "應用程式 消息"
+
+#: includes/options.php:39
+msgid "Hi!"
+msgstr "你好!"
+
+#: includes/options.php:42
+msgid "Country"
+msgstr "國家"
+
+#: includes/options.php:50
+msgid "Phone Number"
+msgstr "電話號碼"
+
+#: includes/options.php:51
+msgid "Number"
+msgstr "號碼"
+
+#: includes/options.php:56
+msgid "Widget"
+msgstr "小部件"
+
+#: includes/options.php:59
+msgid "Username"
+msgstr "用戶名"
+
+#: includes/options.php:63 includes/options.php:67
+msgid "Profile Image"
+msgstr "個人資料圖片"
+
+#: includes/options.php:63
+msgid "(Square)"
+msgstr "(正方)"
+
+#: includes/options.php:67
+msgid "Attach Image"
+msgstr "附上圖片"
+
+#: includes/options.php:68
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/options.php:89
+msgid "Status"
+msgstr "狀態"
+
+#: includes/options.php:90 includes/options.php:157 includes/options.php:415
+#: includes/options.php:582
+msgid "Online"
+msgstr "線上"
+
+#: includes/options.php:93
+msgid "Screen Position"
+msgstr "屏幕位置"
+
+#: includes/options.php:98
+msgid "Left"
+msgstr "左"
+
+#: includes/options.php:99
+msgid "Right"
+msgstr "右"
+
+#: includes/options.php:104
+msgid "Intro Message"
+msgstr "簡介訊息"
+
+#: includes/options.php:105 includes/options.php:161 includes/options.php:416
+#: includes/options.php:546
+msgid "Hello! How can I help you?"
+msgstr "您好，我該如何幫您?"
+
+#: includes/options.php:109
+msgid "Text Button"
+msgstr "文字按鈕"
+
+#: includes/options.php:110 includes/options.php:165 includes/options.php:417
+#: includes/options.php:588
+msgid "Start Chat"
+msgstr "開始聊天"
+
+#: includes/options.php:116
+msgid "Don't Show Whatsapp Window"
+msgstr "不顯示Whatsapp窗口"
+
+#: includes/options.php:121
+msgid "Select Whatsapp Button"
+msgstr "選擇Whatsapp按鈕"
+
+#: includes/options.php:151
+msgid "Window Preview"
+msgstr "視窗預覽"

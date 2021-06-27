@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: autochat-button-for-mobile-chat\n"
+"POT-Creation-Date: 2020-01-14 15:45-0300\n"
+"PO-Revision-Date: 2020-01-14 15:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: autochat\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/options.php:32
+msgid "Whatsapp Options"
+msgstr "Opsi Whatsapp"
+
+#: includes/options.php:36
+msgid "Labels and Messages"
+msgstr "Label dan Pesan"
+
+#: includes/options.php:37
+msgid "Whatsapp Message"
+msgstr "Pesan Whatsapp"
+
+#: includes/options.php:39
+msgid "Hi!"
+msgstr "Hai!"
+
+#: includes/options.php:42
+msgid "Country"
+msgstr "Negara"
+
+#: includes/options.php:50
+msgid "Phone Number"
+msgstr "Nomor telepon"
+
+#: includes/options.php:51
+msgid "Number"
+msgstr "Nomor"
+
+#: includes/options.php:56
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/options.php:59
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: includes/options.php:63 includes/options.php:67
+msgid "Profile Image"
+msgstr "Gambar profil"
+
+#: includes/options.php:63
+msgid "(Square)"
+msgstr "(Kotak)"
+
+#: includes/options.php:67
+msgid "Attach Image"
+msgstr "Lampirkan gambar"
+
+#: includes/options.php:68
+msgid "Delete"
+msgstr "Menghapus"
+
+#: includes/options.php:89
+msgid "Status"
+msgstr "Status"
+
+#: includes/options.php:90 includes/options.php:157
+msgid "Online"
+msgstr "On line"
+
+#: includes/options.php:93
+msgid "Screen Position"
+msgstr "Posisi Layar"
+
+#: includes/options.php:98
+msgid "Left"
+msgstr "Kiri"
+
+#: includes/options.php:99
+msgid "Right"
+msgstr "Kanan"
+
+#: includes/options.php:104
+msgid "Intro Message"
+msgstr "Pesan Pengantar"
+
+#: includes/options.php:105 includes/options.php:161
+msgid "Hello! How can I help you?"
+msgstr "Halo! Apa yang bisa saya bantu?"
+
+#: includes/options.php:109
+msgid "Text Button"
+msgstr "Tombol Teks"
+
+#: includes/options.php:110 includes/options.php:165
+msgid "Start Chat"
+msgstr "Memulai obrolan"
+
+#: includes/options.php:116
+msgid "Don't Show Whatsapp Window"
+msgstr "Jangan Tampilkan Jendela Whatsapp"
+
+#: includes/options.php:121
+msgid "Select Whatsapp Button"
+msgstr "Pilih Tombol Whatsapp"
+
+#: includes/options.php:151
+msgid "Window Preview"
+msgstr "Pratinjau Jendela"
